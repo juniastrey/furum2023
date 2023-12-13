@@ -3,7 +3,7 @@
 This is the code I used for my costume at Furum 2023!
 
 ![costume](media/costume.jpg)
-<video src="media/demo.mp4" />
+![demo](media/demo.gif)
 
 📷 Photo by [@cabbageBits](https://twitter.com/cabbageBits)
 
